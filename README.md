@@ -25,3 +25,5 @@ Increasing the number of PCA components beyond 20;
 Applying ensemble learning methods;
 
 Performing detailed hyperparameter tuning.
+
+This is the link of the demo video of the project: https://www.loom.com/share/2eed4c829eda4ca7bad3e34ede391d29?sid=d7f294c5-c756-495f-aa18-9d53552ba0b2
